@@ -1,0 +1,5 @@
+main {
+  height: 100vh;
+  background-color: var(--primary-color);
+  font-family: var(--font-1);
+}
